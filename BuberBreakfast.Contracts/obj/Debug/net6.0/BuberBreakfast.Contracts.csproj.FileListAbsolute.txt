@@ -1,0 +1,12 @@
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.deps.json
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.dll
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net6.0/BuberBreakfast.Contracts.pdb
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.dll
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/refint/BuberBreakfast.Contracts.dll
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/BuberBreakfast.Contracts.pdb
+/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net6.0/ref/BuberBreakfast.Contracts.dll

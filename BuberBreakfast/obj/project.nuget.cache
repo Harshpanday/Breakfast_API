@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "98bTRTJ49g2PbvVXMHtENk0Qs+WYJlUvzW4JE9prvIRRN8/iJLT34kIgrTilIDIPPT+NgNhjHri03HvGd41zAw==",
+  "success": true,
+  "projectFilePath": "/Users/harshpanday/Desktop/C#/buber/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/Users/harshpanday/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
